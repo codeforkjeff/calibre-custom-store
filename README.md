@@ -16,7 +16,7 @@ Features
 Install
 -------
 
-Download the latest .zip file under releases.
+Download the latest .zip file under [releases](https://github.com/codeforkjeff/calibre-custom-store/releases).
 
 Open calibre, and go to Preferences -> Plugins -> Store plugins
 
@@ -40,7 +40,7 @@ Development
 
 ```
 # clone this repository
-git clone ...
+git clone git@github.com:codeforkjeff/calibre-custom-store.git
 
 # install plugin and run calibre in debug mode
 calibre-debug -s; calibre-customize -b calibre-custom-store/src/; calibre-debug -g
